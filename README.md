@@ -6,8 +6,8 @@ This is a really awesome website
 
 Now editing on update-readme branch 
 
-Updates made on master on Github before rebase 
+Updates made on master on Github before rebase
 
-##Repository Purpose 
+## Purpose
 
-This file is just readme file 
+This file is just a readme file. 
