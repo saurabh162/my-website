@@ -10,4 +10,5 @@ Updates made on master on Github before rebase
 
 ## Purpose
 
-This file is just a readme file. 
+This purpose of this file is to provide examples on how 
+to use git and GitHub together 
